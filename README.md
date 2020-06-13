@@ -1,5 +1,5 @@
-# Covid19-Ethiopia-Links
-This is a repo for important links to be listed in [Covid19-Ethiopia Website](https://covid19-ethiopia.firebaseapp.com/ "Covid19-Ethiopia Site") anyone can use to get trusted news, updates, and statistics etc about the Coronavirus.
+# Covid19-Yemen-Links
+This is a repo for important links to be listed in [Covid19-Yemen Website](https://covid19-yemen.web.app/"Covid19-Yemen Site") anyone can use to get trusted news, updates, and statistics etc about the Coronavirus.
 
 # What Can I Do?
 
@@ -9,7 +9,7 @@ This is a repo for important links to be listed in [Covid19-Ethiopia Website](ht
 * Do translation by any language for the site
 
 
-* [DM1](mailto:nabil.alanssi19@gmail.com "Email") -- [DM2](https://t.me/Nabiloo_19 "Telegram") if you want to take the project and put it with your country's data.
+* [DM1](mailto:nabil.alanssi19@gmail.com "Email") -- [DM2](https://www.instagram.com/nabiloo_19/ "Instagram") if you want to take the project and put it with your country's data.
 
 
 * Any suggestions are welcomed!
